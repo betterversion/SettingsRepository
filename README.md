@@ -1,0 +1,2 @@
+# SettingsRepository
+JetBrains SettingsRepository
