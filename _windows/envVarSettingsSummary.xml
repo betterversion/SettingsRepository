@@ -1,0 +1,10 @@
+<application>
+  <component name="envVarSettingsSummary">
+    <option name="EXCLUDE_VARS">
+      <list>
+        <option value="Path" />
+        <option value="ProgramData" />
+      </list>
+    </option>
+  </component>
+</application>
