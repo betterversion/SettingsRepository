@@ -10,5 +10,5 @@
       <record scheme="http" hostname="stash.showingtime.net" port="-1" path="/" uuid="2ea2a6b3-c4a9-3761-92a9-690537d66b4c" />
     </lookup>
   </component>
-  <component name="Instance" id="2a78a3f3-e1ce-47ba-ac7e-e4ad8cb06360" version="7.3" />
+  <component name="Instance" id="2a78a3f3-e1ce-47ba-ac7e-e4ad8cb06360" version="7.4" />
 </application>
