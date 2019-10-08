@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\Showingtime.QA.CICD\src\pipeline.gdsl'" />
-    <option name="defaultScopeName" value="File '...\Showingtime.QA.CICD\src\pipeline.gdsl'" />
+    <option name="customScope" value="Selection" />
+    <option name="defaultScopeName" value="Selection" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Showingtime.QA.CICD\src\pipeline.gdsl'" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Selection" />
   </component>
 </application>
